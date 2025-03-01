@@ -41,7 +41,8 @@ Pour tester ou personnaliser ce projet, suivez ces étapes simples :
 ```bash
 git clone https://github.com/votre-utilisateur/chwayashop.git
 cd chwayashop
-🤝 Contribution
+
+##🤝 Contribution
 Les contributions sont les bienvenues ! Pour contribuer :
 
 Forkez le dépôt.
@@ -50,6 +51,6 @@ Committez vos modifications (git commit -m 'Ajouter une fonctionnalité').
 Poussez la branche (git push origin votre-branche).
 Ouvrez une Pull Request.
 
-👨‍💻 Auteurs
+##👨‍💻 Auteurs
 Yassine Marzouki - ©Tous droits réservés 2025.
  
