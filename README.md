@@ -41,7 +41,7 @@ Pour tester ou personnaliser ce projet, suivez ces étapes simples :
 ```bash
 git clone https://github.com/votre-utilisateur/chwayashop.git
 cd chwayashop
-
+---
 ##🤝 Contribution
 Les contributions sont les bienvenues ! Pour contribuer :
 
