@@ -21,16 +21,16 @@ Offrez une expérience utilisateur exceptionnelle grâce à un design dynamique 
 Cette plateforme repose sur des technologies modernes et fiables pour offrir une expérience optimale à ses utilisateurs :
 
 - **Spring Boot** : Pour la gestion des back-end services.  
-  ![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/Spring_Framework_Logo_2018.svg)
+  ![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Spring_Boot_Logo_2018.svg)
 
 - **Angular** : Pour une interface utilisateur réactive et moderne.  
-  ![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png)
+  ![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Angular.png)
 
 - **MySQL** : Pour la gestion des données.  
-  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/MySQL_logo.svg/1200px-MySQL_logo.svg.png)
+  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg)
 
 - **REST API** : Pour la communication entre le front-end et le back-end.  
-  ![REST API Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/RESTful_Web_Services_Logo.svg/600px-RESTful_Web_Services_Logo.svg.png)
+  ![REST API Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/Restful_logo.png)
 
 ---
 
