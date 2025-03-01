@@ -1,33 +1,59 @@
-# Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript
+# Chwayashop
 
-[<img alt="Build-and-Deploy-Ecommerce-Website-With-HTML-CSS-JavaScript" width="100%" src="https://github.com/tech2etc/Youtube-Tutorials/blob/main/Build%20and%20Deploy%20Ecommerce%20Website%20With%20HTML%20CSS%20JavaScript%20Full%20Responsive%20Ecommerce%20Course%20FREE.PNG?raw=true" />](https://youtu.be/P8YuWEkTeuE/)
+This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.1.6.
 
-## About this course
-LEARN HOW TO BUILD AND DEPLOY FULL RESPONSIVE ECOMMERCE WEBSITE USING HTML CSS & JAVASCRIPT. This is a free HTML CSS Course. And in this course we will learn how to build and deploy a full multipage ecommerce website completely from scratch step by step. Will Create from responsive navbar using html CSS JavaScript to responsive footer in one video.
+## Development server
 
-## Why This Course?
-- Responsive Ecommerce Website Tutorial Using HTML CSS & JavaScript.
-- Completely For Beginners.
-- Multipage Ecommerce Website Project.
-- Best Beginner Friendly Free Course On YouTube.
-- Learn How to build amazing professional and responsive websites.
-- Learn the fundamentals of web design.
-- Modern CSS, including flexbox and CSS Grid for layout.
-- Modern CSS techniques to create stunning designs and effects.
-- How to use common components and layout patterns for professional website design and development.
-- Advanced responsive design using media queries.
-- And Many More.
+To start a local development server, run:
 
-## Sections
-- Part1: Responsive Home Page Design.
-- Part2: Shop Page & Single Product Page.
-- Part3: Blog Page.
-- Part4: About Page.
-- Part5: Contact Us.
-- Part6: Ecommerce Shopping Cart.
+```bash
+ng serve
+```
 
-Here you will find all the images I'm using to create this responsive ecommerce website. In future image folder can update.
+Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
 
-Get the full source code from [here1](https://www.buymeacoffee.com/tech2etc/e/50932).
+## Code scaffolding
 
-Get the full source code from [here2](https://ko-fi.com/s/06e4db9e09).
+Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+
+```bash
+ng generate component component-name
+```
+
+For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+
+```bash
+ng generate --help
+```
+
+## Building
+
+To build the project run:
+
+```bash
+ng build
+```
+
+This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+
+## Running unit tests
+
+To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+
+```bash
+ng test
+```
+
+## Running end-to-end tests
+
+For end-to-end (e2e) testing, run:
+
+```bash
+ng e2e
+```
+
+Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+
+## Additional Resources
+
+For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
