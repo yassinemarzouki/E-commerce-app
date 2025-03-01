@@ -20,18 +20,39 @@ Offrez une expérience utilisateur exceptionnelle grâce à un design dynamique 
 
 Cette plateforme repose sur des technologies modernes et fiables pour offrir une expérience optimale à ses utilisateurs :
 
-- **Spring Boot** : Pour la gestion des back-end services.  
-  ![Spring Boot Logo](https://upload.wikimedia.org/wikipedia/commons/4/42/Spring_Boot_Logo_2018.svg)
+## 💼 My Tech Stack
 
-- **Angular** : Pour une interface utilisateur réactive et moderne.  
-  ![Angular Logo](https://upload.wikimedia.org/wikipedia/commons/a/a0/Angular.png)
+### 🚀 Languages
+<p align="center">
+  <img src="https://simpleicons.org/icons/java.svg" alt="Java" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/javascript.svg" alt="JavaScript" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/typescript.svg" alt="TypeScript" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/python.svg" alt="Python" width="50" height="50" style="border-radius: 50%;">
+</p>
 
-- **MySQL** : Pour la gestion des données.  
-  ![MySQL Logo](https://upload.wikimedia.org/wikipedia/commons/2/29/MySQL_logo.svg)
+### 📦 Frameworks & Libraries
+<p align="center">
+  <img src="https://simpleicons.org/icons/springboot.svg" alt="Spring Boot" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/react.svg" alt="React" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/nodedotjs.svg" alt="Node.js" width="50" height="50" style="border-radius: 50%;">
+</p>
 
-- **REST API** : Pour la communication entre le front-end et le back-end.  
-  ![REST API Logo](https://upload.wikimedia.org/wikipedia/commons/e/e5/Restful_logo.png)
+### ☁️ DevOps & Cloud Tools
+<p align="center">
+  <img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure DevOps" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/githubactions.svg" alt="GitHub Actions" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/docker.svg" alt="Docker" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/amazonaws.svg" alt="AWS" width="50" height="50" style="border-radius: 50%;">
+</p>
 
+### 🗄️ Databases
+<p align="center">
+  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/postgresql.svg" alt="PostgreSQL" width="50" height="50" style="border-radius: 50%;">
+  <img src="https://simpleicons.org/icons/mongodb.svg" alt="MongoDB" width="50" height="50" style="border-radius: 50%;">
+</p>
 ---
 
 ## 🛠️ Installation
