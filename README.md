@@ -1,6 +1,6 @@
-# Mon Projet E-commerce
+# Chwayashop - Projet E-commerce
 
-Bienvenue dans **Mon Projet E-commerce**, une plateforme moderne et intuitive permettant d'explorer, acheter et interagir avec vos produits préférés.
+Bienvenue dans **Chwayashop**, une plateforme moderne et intuitive permettant d'explorer, acheter et interagir avec vos produits préférés.
 
 ## 🚀 Aperçu
 
@@ -39,4 +39,17 @@ Pour tester ou personnaliser ce projet, suivez ces étapes simples :
 ### 1. Clonez ce dépôt sur votre machine locale :
 
 ```bash
-git clone https://github.com/votre-utilisateur/mon-projet-ecommerce.git
+git clone https://github.com/votre-utilisateur/chwayashop.git
+cd chwayashop
+🤝 Contribution
+Les contributions sont les bienvenues ! Pour contribuer :
+
+Forkez le dépôt.
+Créez une branche (git checkout -b votre-branche).
+Committez vos modifications (git commit -m 'Ajouter une fonctionnalité').
+Poussez la branche (git push origin votre-branche).
+Ouvrez une Pull Request.
+
+👨‍💻 Auteurs
+Yassine Marzouki - ©Tous droits réservés 2025.
+ 
