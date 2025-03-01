@@ -20,17 +20,12 @@ Offrez une expérience utilisateur exceptionnelle grâce à un design dynamique 
 
 Cette plateforme repose sur des technologies modernes et fiables pour offrir une expérience optimale à ses utilisateurs :
 
-- **Spring Boot** : Pour la gestion des back-end services.  
-  <img src="https://simpleicons.org/icons/springboot.svg" alt="Spring Boot" width="50" height="50" style="border-radius: 50%;">
+- **Spring Boot** : Pour la gestion des back-end services.
+- **Angular** : Pour une interface utilisateur réactive et moderne.
+- **MySQL** : Pour la gestion des données.
+- **REST API** : Pour la communication entre le front-end et le back-end.
 
-- **Angular** : Pour une interface utilisateur réactive et moderne.  
-  <img src="https://simpleicons.org/icons/angular.svg" alt="Angular" width="50" height="50" style="border-radius: 50%;">
-
-- **MySQL** : Pour la gestion des données.  
-  <img src="https://simpleicons.org/icons/mysql.svg" alt="MySQL" width="50" height="50" style="border-radius: 50%;">
-
-- **REST API** : Pour la communication entre le front-end et le back-end.  
-  <img src="https://simpleicons.org/icons/swagger.svg" alt="REST API" width="50" height="50" style="border-radius: 50%;">
+---
 
 ## 🛠️ Installation
 
@@ -41,16 +36,3 @@ Pour tester ou personnaliser ce projet, suivez ces étapes simples :
 ```bash
 git clone https://github.com/votre-utilisateur/chwayashop.git
 cd chwayashop
----
-##🤝 Contribution
-Les contributions sont les bienvenues ! Pour contribuer :
-
-Forkez le dépôt.
-Créez une branche (git checkout -b votre-branche).
-Committez vos modifications (git commit -m 'Ajouter une fonctionnalité').
-Poussez la branche (git push origin votre-branche).
-Ouvrez une Pull Request.
-
-##👨‍💻 Auteurs
-Yassine Marzouki - ©Tous droits réservés 2025.
- 
