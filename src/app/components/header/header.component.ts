@@ -11,5 +11,6 @@ import { StoreButtonComponent } from "../store-button/store-button.component";
 export class HeaderComponent {
 
   title =signal('Welcome TO ChwayaShop');
+  cartItemCount: number = 5;
 
 }
