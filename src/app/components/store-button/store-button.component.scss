@@ -1,10 +1,22 @@
-.fas {
-    transition: transform 0.3s ease;
-  }
-  
-  .fas:hover {
-    transform: scale(1.2);
-  }
-  
-  
-  
+.cart-button {
+  background: linear-gradient(135deg, #6e7dff, #4f5bbd); 
+  color: white; 
+  padding: 10px 20px; 
+  font-size: 16px; 
+  border: none; 
+  border-radius: 50px; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer; 
+  transition: background 0.3s, transform 0.3s; 
+}
+
+.cart-button:hover {
+  background: linear-gradient(135deg, #4f5bbd, #6e7dff); 
+  transform: scale(1.05); 
+}
+
+.cart-button i {
+  margin-right: 8px; 
+}

@@ -1,5 +1,5 @@
 import { CommonModule } from '@angular/common';
-import { Component, Input } from '@angular/core';
+import { Component, input, Input, output } from '@angular/core';
 
 @Component({
   selector: 'app-store-button',
@@ -8,5 +8,8 @@ import { Component, Input } from '@angular/core';
   styleUrl: './store-button.component.scss'
 })
 export class StoreButtonComponent {
-  @Input() itemCount: number = 0;
+
+  label = input('');
+  btnClicked = output();
+
 }
