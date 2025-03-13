@@ -20,7 +20,7 @@ export class CartService {
     } else {
       this.cart.push({ ...product, quantity: 1 });
     }
-    this.cartItemsSubject.next(this.cart); // Mettre à jour l'observable
+    this.cartItemsSubject.next(this.cart); 
   }
 
   removeFromCart(id: number) {
